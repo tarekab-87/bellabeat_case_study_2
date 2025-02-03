@@ -12,3 +12,4 @@ SELECT
     *
 FROM 
     daily_activity
+
