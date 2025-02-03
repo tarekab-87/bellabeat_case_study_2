@@ -3,3 +3,11 @@ SELECT
     *
 FROM 
     daily_activity
+
+
+SELECT
+    *
+FROM
+    daily_activity
+WHERE
+    "Id" = '1503960366'
